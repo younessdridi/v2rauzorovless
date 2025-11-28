@@ -10,5 +10,5 @@ COPY config.json /etc/v2ray/config.json
 CMD ["v2ray", "run", "-config", "/etc/v2ray/config.json"]
 
 
-# join telegram https://t.me/ragnarservers  for new updates 
-# my telegram username is @Not_Ragnar
+# join telegram https://t.me/zoro_40_khanchlyyy  for new updates 
+# my telegram username is @ZORO40_DZ

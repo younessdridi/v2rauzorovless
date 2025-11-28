@@ -34,7 +34,7 @@ This project allows you to deploy a **VLESS proxy** server over **WebSocket** us
       "settings": {
         "clients": [
           {
-            "id": "a3b7de87-b46f-4dcf-b6ed-5bf5ebe83167",
+            "id": "36459fd0-0c89-4733-b20e-067ffc102d2",
             "level": 0
           }
         ],
@@ -110,7 +110,7 @@ Use the following settings in your client app:
 | Protocol   | VLESS                                  |
 | Address    | `your.domain.com`                      |
 | Port       | `443` (HTTPS)                          |
-| UUID       | `a3b7de87-b46f-4dcf-b6ed-5bf5ebe83167` |
+| UUID       | `36459fd0-0c89-4733-b20e-067ffc102d2` |
 | Encryption | none                                   |
 | Transport  | WebSocket (WS)                         |
 | WS Path    | `/tg-@ZORO40_DZ`                           |
